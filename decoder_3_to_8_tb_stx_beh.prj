@@ -1,0 +1,2 @@
+vhdl isim_temp "decoder_3_to_8.vhd"
+vhdl isim_temp "decoder_3_to_8_tb.vhd"

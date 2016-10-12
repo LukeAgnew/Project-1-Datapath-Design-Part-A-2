@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "U:/Project-1-Datapath-Design-Part-A-2/register_file.xst" -ofn "U:/Project-1-Datapath-Design-Part-A-2/register_file.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700a-fg484-4 register_file.ngc register_file.ngd  
+map -intstyle ise -p xc3s700a-fg484-4 -cm area -ir off -pr off -c 100 -o register_file_map.ncd register_file.ngd register_file.pcf 

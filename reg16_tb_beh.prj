@@ -1,0 +1,2 @@
+vhdl work "reg16.vhd"
+vhdl work "reg16_tb.vhd"

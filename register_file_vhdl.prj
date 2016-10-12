@@ -1,0 +1,5 @@
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\agnewl\Project-1-Datapath-Design-Part-A-2\reg16.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\agnewl\Project-1-Datapath-Design-Part-A-2\mux8_16bit.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\agnewl\Project-1-Datapath-Design-Part-A-2\mux2_16bit.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\agnewl\Project-1-Datapath-Design-Part-A-2\decoder_3_to_8.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\agnewl\Project-1-Datapath-Design-Part-A-2\register_file.vhd"

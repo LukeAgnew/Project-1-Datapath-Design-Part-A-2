@@ -1,0 +1,5 @@
+work	"decoder_3_to_8.vhd"
+work	"mux2_16bit.vhd"
+work	"mux8_16bit.vhd"
+work	"reg16.vhd"
+work	"register_file.vhd"

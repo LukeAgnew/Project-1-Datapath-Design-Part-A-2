@@ -1,0 +1,24 @@
+Running: C:\Xilinx\13.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o U:/Project-1-Datapath-Design-Part-A-2/register_file_tb_isim_beh.exe -prj U:/Project-1-Datapath-Design-Part-A-2/register_file_tb_beh.prj work.register_file_tb 
+ISim O.61xd (signature 0x1cce1bb2)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "U:/Project-1-Datapath-Design-Part-A-2/reg16.vhd" into library work
+Parsing VHDL file "U:/Project-1-Datapath-Design-Part-A-2/mux8_16bit.vhd" into library work
+Parsing VHDL file "U:/Project-1-Datapath-Design-Part-A-2/mux2_16bit.vhd" into library work
+Parsing VHDL file "U:/Project-1-Datapath-Design-Part-A-2/decoder_3_to_8.vhd" into library work
+Parsing VHDL file "U:/Project-1-Datapath-Design-Part-A-2/register_file.vhd" into library work
+Parsing VHDL file "U:/Project-1-Datapath-Design-Part-A-2/register_file_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity reg16 [reg16_default]
+Compiling architecture dataflow_1 of entity decoder_3_to_8 [decoder_3_to_8_default]
+Compiling architecture behavioral of entity mux2_16bit [mux2_16bit_default]
+Compiling architecture behavioral of entity mux8_16bit [mux8_16bit_default]
+Compiling architecture behavioral of entity register_file [register_file_default]
+Compiling architecture behavior of entity register_file_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+FATAL_ERROR:Simulator:Fuse.cpp:209:1.129 - Failed to compile one of the generated C files. Please recompile with -mt off -v 1 switch to identify which design unit failed.  Process will terminate. For technical support on this issue, please open a WebCase with this project attached at http://www.xilinx.com/support.
